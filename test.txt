@@ -1,0 +1,8 @@
+if valor > 2.5E+30 then
+    ok
+else
+    problem
+while acc_error > 1E-6
+"Exemplo de String"
+counter == 255
+flag != 0
